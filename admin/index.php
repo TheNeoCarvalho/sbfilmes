@@ -104,7 +104,7 @@ function clearText(field)
                 <li><a href="#">Reservas</a></li>
                 <li><a href="#">Devoluções</a></li>				
             	<li><a href="#">Locações</a></li>
-                <li><a href="#">Hendrerit justo</a></li>     
+                <li><a href="cad_categoria.php">Cadastro Categoria</a></li>     
                 <li><a href="#">Integer interdum</a></li>				
                 <li><a href="#">Maecenas a diam</a></li>
 				<li><a href="#">Nullam in semper</a></li>
