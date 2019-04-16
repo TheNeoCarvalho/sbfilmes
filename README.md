@@ -5,6 +5,13 @@
 # Inicializar o Projeto
 - [x] Projeto Iniciado
 
+# Visualizar
+* [x] Categoria
+* [x] Clientes
+* [x] Funcionario
+* [x] Reserva
+* [x] Filme
+
 # cadastro
 * [x] Categoria
 * [x] Clientes
