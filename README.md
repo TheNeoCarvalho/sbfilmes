@@ -1,5 +1,8 @@
 # sbfilmes
 
 CRUD
-
-* [ ] Criar sessão
+# cadastro
+* [ ] Categoria
+* [ ] Clientes
+* [ ] Funcionario
+* [ ] Reserva
