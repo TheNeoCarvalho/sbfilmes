@@ -2,5 +2,4 @@
 
 CRUD
 
-[] Funcionario
-[] Usuario
+* [ ] unchecked # [checkbox:unchecked]
