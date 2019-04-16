@@ -2,5 +2,5 @@
 
 CRUD
 
-Funcionario # [checkbox:unchecked]
-Usuario # [checkbox:unchecked]
+[] Funcionario
+[] Usuario
