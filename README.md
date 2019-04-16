@@ -2,4 +2,4 @@
 
 CRUD
 
-* [ ] unchecked # [checkbox:checked]
+* [ ] Criar sessão
