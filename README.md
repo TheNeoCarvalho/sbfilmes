@@ -4,10 +4,10 @@ CRUD
 #Inicializar o Projeto
 - [x] Projeto Iniciado
 # cadastro
-* [ ] Categoria
-* [ ] Clientes
-* [ ] Funcionario
-* [ ] Reserva
+* [x] Categoria
+* [x] Clientes
+* [x] Funcionario
+* [x] Reserva
 # deletar
 * [ ] Categoria
 * [ ] Clientes
