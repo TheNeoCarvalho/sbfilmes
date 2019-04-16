@@ -2,4 +2,4 @@
 
 CRUD
 
-* [ ] unchecked # [checkbox:unchecked]
+* [ ] unchecked # [checkbox:checked]
